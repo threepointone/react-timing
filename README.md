@@ -7,6 +7,9 @@ Timing as a component
 
 ```js
 // an example with react-motion
+import {Timing} from 'react-timing';
+
+...
 <Timing from={{top: 1000, left: 0}} sequence={[
   {period: 1000, value:{top: 100, left: 0}},
   {period: 1000, value:{top: 100, left: 100}},
