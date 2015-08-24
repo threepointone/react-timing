@@ -1,6 +1,6 @@
 {
   "name": "react-timing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react components for timing animations, etc",
   "main": "./lib/index.js",
   "scripts": {
